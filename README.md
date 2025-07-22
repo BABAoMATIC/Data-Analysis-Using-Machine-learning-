@@ -83,5 +83,12 @@ The notebook follows a typical ML lifecycle including:
 2. Open `Untitled0.ipynb` using Jupyter Notebook.
 3. Ensure required libraries are installed using:
 
-```bash
+---bash ---
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+---
+Here All the screenshot and all the visuals of the practical or analysis 
+---
+<img width="707" height="588" alt="image" src="https://github.com/user-attachments/assets/1dbe8a3e-32f6-4196-a851-d36c11f28397" />
+
+
