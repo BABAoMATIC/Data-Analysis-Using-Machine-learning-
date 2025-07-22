@@ -112,45 +112,45 @@ Here All the screenshot and all the visuals of the practical or analysis
 🎯 What We Achieve from This Practical
 Through this practical exercise, we gain hands-on experience with the complete machine learning pipeline using real-world telecom customer data. Specifically, we achieve the following:
 
-Understanding of Data-Driven Decision Making
+1. Understanding of Data-Driven Decision Making
 
-Learn how raw data can be used to extract insights and patterns.
+-Learn how raw data can be used to extract insights and patterns.
 
-Explore how telecom companies can use ML to predict customer churn and improve retention strategies.
+-Explore how telecom companies can use ML to predict customer churn and improve retention strategies.
 
-End-to-End Machine Learning Workflow Implementation
+2. End-to-End Machine Learning Workflow Implementation
 
-From loading data to cleaning, transforming, modeling, and evaluating – every step is practiced.
+-From loading data to cleaning, transforming, modeling, and evaluating – every step is practiced.
 
-Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
 
-Visualizing and understanding relationships among features.
+-Visualizing and understanding relationships among features.
 
-Identifying trends and potential issues such as missing data and class imbalance.
+-Identifying trends and potential issues such as missing data and class imbalance.
 
-Preprocessing and Feature Engineering Skills
+4. Preprocessing and Feature Engineering Skills
 
-Encoding categorical variables, scaling features, and handling missing data.
+-Encoding categorical variables, scaling features, and handling missing data.
 
-Building a cleaner dataset ready for modeling.
+-Building a cleaner dataset ready for modeling.
 
-Hands-On Experience with Supervised Learning Models
+5. Hands-On Experience with Supervised Learning Models
 
-Training multiple classification models (e.g., Logistic Regression, Decision Tree, Random Forest, etc.).
+-Training multiple classification models (e.g., Logistic Regression, Decision Tree, Random Forest, etc.).
 
-Comparing their performance based on standard evaluation metrics.
+-Comparing their performance based on standard evaluation metrics.
 
-Model Evaluation and Selection
+6. Model Evaluation and Selection
 
-Learning how to evaluate models using accuracy, precision, recall, F1-score, and confusion matrix.
+-Learning how to evaluate models using accuracy, precision, recall, F1-score, and confusion matrix.
 
-Selecting the most suitable model for the prediction task.
+-Selecting the most suitable model for the prediction task.
 
-Critical Thinking and Result Interpretation
+7. Critical Thinking and Result Interpretation
 
-Drawing conclusions from model performance.
+-Drawing conclusions from model performance.
 
-Understanding limitations and discussing possible improvements.
+-Understanding limitations and discussing possible improvements.
 
 
 
