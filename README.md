@@ -108,6 +108,50 @@ Here All the screenshot and all the visuals of the practical or analysis
 <Figure size 640x480 with 1 Axes><img width="586" height="463" alt="image" src="https://github.com/user-attachments/assets/45c3e3ef-4893-4617-b0f8-f643ab355f68" />
 <Figure size 1200x1000 with 2 Axes><img width="995" height="898" alt="image" src="https://github.com/user-attachments/assets/378d077f-a951-4fb6-acf4-29b3cf850f54" />
 
+---
+🎯 What We Achieve from This Practical
+Through this practical exercise, we gain hands-on experience with the complete machine learning pipeline using real-world telecom customer data. Specifically, we achieve the following:
+
+Understanding of Data-Driven Decision Making
+
+Learn how raw data can be used to extract insights and patterns.
+
+Explore how telecom companies can use ML to predict customer churn and improve retention strategies.
+
+End-to-End Machine Learning Workflow Implementation
+
+From loading data to cleaning, transforming, modeling, and evaluating – every step is practiced.
+
+Exploratory Data Analysis (EDA)
+
+Visualizing and understanding relationships among features.
+
+Identifying trends and potential issues such as missing data and class imbalance.
+
+Preprocessing and Feature Engineering Skills
+
+Encoding categorical variables, scaling features, and handling missing data.
+
+Building a cleaner dataset ready for modeling.
+
+Hands-On Experience with Supervised Learning Models
+
+Training multiple classification models (e.g., Logistic Regression, Decision Tree, Random Forest, etc.).
+
+Comparing their performance based on standard evaluation metrics.
+
+Model Evaluation and Selection
+
+Learning how to evaluate models using accuracy, precision, recall, F1-score, and confusion matrix.
+
+Selecting the most suitable model for the prediction task.
+
+Critical Thinking and Result Interpretation
+
+Drawing conclusions from model performance.
+
+Understanding limitations and discussing possible improvements.
+
 
 
 
