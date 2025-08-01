@@ -1,6 +1,6 @@
 # Machine Learning Practical
 
-This repository contains the practical work for the MST575 course, focusing on end-to-end machine learning workflows using Python and Jupyter Notebook.
+This repository contains the practical work for the  focusing on end-to-end machine learning workflows using Python and Jupyter Notebook.
 
 ## 📁 File Structure
 
